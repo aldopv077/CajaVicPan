@@ -1,0 +1,17 @@
+D:\DOCUMENTOS\Proyecto Vic Pan\CorteVicPan\CorteVicPan\bin\Debug\CorteVicPan.exe.config
+D:\DOCUMENTOS\Proyecto Vic Pan\CorteVicPan\CorteVicPan\obj\Debug\CorteVicPan.csprojResolveAssemblyReference.cache
+D:\DOCUMENTOS\Proyecto Vic Pan\CorteVicPan\CorteVicPan\obj\Debug\CorteVicPan.FrmCortedelDia.resources
+D:\DOCUMENTOS\Proyecto Vic Pan\CorteVicPan\CorteVicPan\obj\Debug\CorteVicPan.FrmLogin.resources
+D:\DOCUMENTOS\Proyecto Vic Pan\CorteVicPan\CorteVicPan\obj\Debug\CorteVicPan.FrmPrincipal.resources
+D:\DOCUMENTOS\Proyecto Vic Pan\CorteVicPan\CorteVicPan\obj\Debug\CorteVicPan.FrmReporte.resources
+D:\DOCUMENTOS\Proyecto Vic Pan\CorteVicPan\CorteVicPan\obj\Debug\CorteVicPan.FrmUsuarios.resources
+D:\DOCUMENTOS\Proyecto Vic Pan\CorteVicPan\CorteVicPan\obj\Debug\CorteVicPan.Properties.Resources.resources
+D:\DOCUMENTOS\Proyecto Vic Pan\CorteVicPan\CorteVicPan\obj\Debug\CorteVicPan.csproj.GenerateResource.Cache
+D:\DOCUMENTOS\Proyecto Vic Pan\CorteVicPan\CorteVicPan\obj\Debug\RdlCompile.cache
+D:\DOCUMENTOS\Proyecto Vic Pan\CorteVicPan\CorteVicPan\obj\Debug\RdlCompile.compiled
+D:\DOCUMENTOS\Proyecto Vic Pan\CorteVicPan\CorteVicPan\bin\Debug\CorteVicPan.exe
+D:\DOCUMENTOS\Proyecto Vic Pan\CorteVicPan\CorteVicPan\bin\Debug\CorteVicPan.pdb
+D:\DOCUMENTOS\Proyecto Vic Pan\CorteVicPan\CorteVicPan\obj\Debug\CorteVicPan.exe
+D:\DOCUMENTOS\Proyecto Vic Pan\CorteVicPan\CorteVicPan\obj\Debug\CorteVicPan.pdb
+D:\DOCUMENTOS\Proyecto Vic Pan\CorteVicPan\CorteVicPan\bin\Debug\BDCorteVicPan.mdf
+D:\DOCUMENTOS\Proyecto Vic Pan\CorteVicPan\CorteVicPan\bin\Debug\BDCorteVicPan_log.ldf
